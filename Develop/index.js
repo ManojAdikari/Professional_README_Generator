@@ -121,7 +121,7 @@ inquirer
     },
     
   ])
-//-------------Passes Data and Writes to the README.md file (note all data is acquired from within the Inquirer form function):
+
   .then((response) => {
     const htmldata = README_Generator(response);
         fs.writeFile('README.md', htmldata, (err) =>
