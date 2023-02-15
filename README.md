@@ -31,7 +31,7 @@ N/A
 
 ## Usage:
 ```
-Please use ,Node.js , inquirer@8.2.4 , npm (normally comes with Node.js)
+Please use  Node.js , inquirer@8.2.4 , npm (normally comes with Node.js)
 ```
 ## Contributing:
 ```
@@ -46,11 +46,11 @@ open index.js on integrated terminal and use command 'node index.js'  to run the
 
 
 ## My GitHub profile:
-```
+
 This is My GitHub profile; ManojAdikari
 [see my GitHub profile ](https://github.com/ManojAdikari)
 
-```
+
 
 ## License:
 ```
